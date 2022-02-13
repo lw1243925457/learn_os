@@ -20,3 +20,5 @@
 # Outputs
 *.o
 *.img
+
+.idea
